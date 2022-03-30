@@ -3,7 +3,8 @@
 
 // $body-bg: black;
 // $body-color: white;
-// $link-hover-color: grey;
+$link-hover-color: red;
+$link-color: aquamarine;
 // $font-family-sans-serif: "Helvetica Neue";
 
 /* bootstrap */
@@ -25,3 +26,9 @@
 h3 {
   font-size: 1.5rem;
 }
+
+.column {
+  offset: right;
+}
+
+$link-hover-color: red;
