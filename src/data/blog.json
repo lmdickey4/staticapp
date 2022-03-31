@@ -8,7 +8,7 @@
       "post": [
         {
           "type": "text",
-          "value": "Sea Legs lee grog blossom capstan <a href=\"https://en.wikipedia.org/wiki/Portuguese_man_o%27_war\">Man-of-war</a> mizzenmast reef sails crimp bring a spring upon her cable execution dock. Scuppers chase keel belaying pin rum warp American Main gabion hearties skysail. Cable parley ye sheet Gold Road booty tender Cat o'nine tails scourge of the seven seas pressgang."
+          "value": "Sea Legs lee grog blossom capstan Man-of-war mizzenmast reef sails crimp bring a spring upon her cable execution dock. Scuppers chase keel belaying pin rum warp American Main gabion hearties skysail. Cable parley ye sheet Gold Road booty tender Cat o'nine tails scourge of the seven seas pressgang."
         },
         {
           "type": "text",
@@ -37,6 +37,26 @@
         {
           "type": "text",
           "value": "Crow's nest pillage Buccaneer jib yo-ho-ho sutler skysail red ensign ye grog. Case shot lookout wherry bilge rat run a rig dead men tell no tales port lugsail Jack Tar piracy. No prey, no pay heave to come about hempen halter handsomely to go on account brigantine lugger gangway case shot."
+        }
+      ]
+    },
+    {
+      "slug": "2019-10-20",
+      "headline": "Sea Legs and Ship Races",
+      "date": "Oct. 20, 2019",
+      "image": "kraken03.jpg",
+      "post": [
+        {
+          "type": "text",
+          "value": "There is someone trying to race me, it seems, but I do not know why they would try to do that on these treacherous waters."
+        },
+        {
+          "type": "text",
+          "value": "There is a massive creature lurking beneath my ship. Maybe this is a good time for a race."
+        },
+        {
+          "type": "text",
+          "value": "I will let you know if I make it out of this ordeal alive."
         }
       ]
     }
